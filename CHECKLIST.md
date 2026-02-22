@@ -7,7 +7,7 @@
 - [x] Complete exercises
 
 ## Week 3
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Week 4
 - [ ] Complete exercises
