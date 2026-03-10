@@ -13,10 +13,10 @@
 - [x] Complete exercises
 
 ## Week 5
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Week 6
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Week 7
 - [ ] Complete exercises
